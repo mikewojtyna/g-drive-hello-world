@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sda-download-manager",
+  "private_key_id": "a45cfa61168c179646095f3bda8865dbfb400dad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl7erQFRwSdomy\nsciv7FRlrtuBN6kq5sEm5wMY+Qg9CrWsPphkR4TuhwSJ8b7Fkgt18ffx4YqM6yOM\ne92/348C6uDtfXp0fyjO++qHfNp4hMHAL+DgtI5uoD1p+IOcFwn8u2xOY+acvxAB\nrSQzrfE0k9qfZ8f1h5zR36RTtchtKLiwpZGHxTwcRQR0r0lZb8SpBJsHMm8oEs4G\nAxgWQo8JYzzcSPC9kqq70zIjgY7OZLSpaekMaVgpo3rQAfRM1beWPMQ8GjxnOjj6\nZzEAahSzRqT2dq2IE+dWaSxYmOEZVrLP/X7US07Zf3tUoVFc3ajLEqRRyz/yy72U\nCsbEqfOrAgMBAAECggEAC00GapCdflZrb2uzVuP6JYjAs27Gi0D3E761E8zWNk4V\n7HrA50eFsrcoZHq9+vfE5w4JTISHaqyTGbzP8AL6WwEDO7mJjwigD2TR5tNmj8G+\n7md0Yel6L+ei9yYxVH6vM/LR4A7mxHMw1GRl7E0i+ek+ARBQ6pSHZjXcm8TsNx7s\nF1oZNeg7bZJPM7WOhSvqrGGEkFiGis4eRLfTDX07chEfOY9VbrXFc2wLQDawb2pi\nFHJmPBg5ojeuyRk7kM7rlzUEIip/dsFrK4jJ9ngWoKbP4y8axOpQlacEFfIOb0zP\nXeT5KyjnjydeQCSKJEOn4Lt2D28NbSGS6zYwWYdR1QKBgQDpM2SC1DyXmkK5uQ77\nrfFwDMuCA3Ogyc1jVpmNCsjANKze5qfkHBcN3zyl3/AaPGbtTv1iU79AzViW7kq5\nTTbcRQoMtCtl8YlkR+eX40tq77b5HN0uEX0taX62XneoUlV+tJdTqp6LzK748GFF\nv6XNgRQw8tYLf98yPRvlABe1VQKBgQC2Jtbc3DrSkw7k5k+8hbNkVj11tOgxiw41\njleiFUuy8I3NCz+MPbt++Bb0LL6kT8H8wncnr5rSbJd1LBMEKmhRmkovEz0Pr0CX\n2OY7wVJVaTQLvwuMmJ+lFEFIAo18CISI7AimLgA6beP1NsBx40JYIGvk6M1LYUmg\ni1HmdVsE/wKBgBxT4tzFnUqpMXvQEBLgkViUJVB4zN32RZ3QkjyA19wJSgqVqEVc\naCyGNp7LsiXtum8PTlZYZ/4eM6m57pfN2mEtfcgHRtJOYestlONtd+bYkbh3GiMT\neso+a2cJ2K04uyv2Ef/W1QWUapjQ0nAflKt/B43eocOp19oJdE8AEOE1AoGAEX2X\nQivvhgrS8k3fODYKbMcPLb9KUH+OxLu/VHQBCdSpeRfsaTYATAfchGPLhpGWCgRO\nVsQ49J2yyXCK/upni/Zpyy1ovpnQdQRBz1kX49WvRrV4kW6SXdKdFiIQnelfeJpZ\nlkNyiCnHKuOwBP+Sfk3WrmtgUy2rWTwniB6at9cCgYBkmEbt2WsWE3f/TWGB1L6/\nlSrj5q7u+pI+xtVJOU7sengnHd+iiG7F8GU6vMM0vDdfONo5PC7eRezv5Ta22Bk3\n/SnP857dGCpA3ECyKnjcJ9Jzc9YV7b0BKlani2upkMhI1dPpUOeOuH/+pmJ8aZYl\nbbOHwqLX9hcc/2vprzHMbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "download-manager@sda-download-manager.iam.gserviceaccount.com",
+  "client_id": "103583466294399934342",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/download-manager%40sda-download-manager.iam.gserviceaccount.com"
+}
